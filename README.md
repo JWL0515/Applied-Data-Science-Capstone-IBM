@@ -21,3 +21,8 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 - Perform exploratory data analysis (EDA) using visualization and SQL
 - Perform interactive visual analytics using Folium and Plotly Dash
 - Perform predictive analysis using classification models
+
+## Overview of Dashboard (Plotly Dash)
+![image](https://user-images.githubusercontent.com/123400810/218835809-8b0d303d-6dff-4484-ad83-9cdf489ba436.png)
+
+![image](https://user-images.githubusercontent.com/123400810/218835893-7f6bbe17-61c4-41e4-bcaf-3365426cd9f1.png)
